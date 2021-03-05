@@ -1,2 +1,6 @@
-# labor_395k
-Empirical problem sets from course in labor economics
+Empirical Labor Economics
+================
+
+Scott Cohn
+
+TBD
